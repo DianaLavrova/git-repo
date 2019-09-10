@@ -1,4 +1,4 @@
-Just try
-hello
-everybody
+Just try;
+hello;
+everybody;
 
