@@ -1,5 +1,5 @@
-Just try
-hello
-everybody
-popstar
+Just try;
+hello;
+everybody;
+popstar.
 
